@@ -1,4 +1,4 @@
-<h1 align="center">🇩🇪 Genderfreies macOS</h1>
+<h1 align="center">🇩🇪 Gender Free macOS</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98193439/276884315-3c3efadf-b1a6-452e-b09a-eda1ff3a3eb8.png" alt="Genderfreies macOS Banner">
@@ -13,14 +13,14 @@
 ---
 
 > [!WARNING]
-> Die Ausführung dieses Skripts erfordert, dass die SIP-Funktion **„Filesystem Protections"** deaktiviert ist. Das Abschalten dieser Funktion deaktiviert die Volumensignierung – ein wichtiges Sicherheitsmerkmal von Apple. Triff diese Entscheidung bewusst und halte stets ein Backup bereit.
+> Running this script requires that the SIP feature **“Filesystem Protections”** be disabled. Disabling this feature turns off volume signing—an important Apple security feature. Make this decision carefully and always keep a backup on hand.
 
-## 📖 Beschreibung
+## 📖 Description
 
-Bist du es leid, dass macOS dir die deutsche Gendersprache aufzwingt, ohne eine alternative Option anzubieten? Mit diesem Skript kannst du im Recovery-Modus deine Systempartition von der Gendersprache befreien und zur klassischen deutschen Sprache zurückkehren.
+Are you tired of macOS forcing gender-neutral language on you without offering an alternative? With this script, you can remove gender-neutral language from your system partition in Recovery Mode and revert to standard German.
 
-**Voraussetzung:** SIP-Funktion „Filesystem Protections" ist deaktiviert.  
-**Kompatibilität:** macOS Ventura (13.x) und neuer.
+**Prerequisite:** The SIP feature “Filesystem Protections” must be disabled.  
+**Compatibility:** macOS Ventura (13.x) and later.
 
 ---
 
